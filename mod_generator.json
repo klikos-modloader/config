@@ -1,0 +1,19 @@
+{
+    "blacklist": {
+        "prefixes": [
+            "chat_bubble/",
+            "component_assets/",
+            "icons/controls/voice/",
+            "icons/graphic/",
+            "squircles/",
+            "icons/logo/studiologo"
+        ],
+        "suffixes": [],
+        "keywords": [
+            "goldrobux"
+        ],
+        "strict": [
+            "gradient/gradient_0_100"
+        ],
+    }
+}
