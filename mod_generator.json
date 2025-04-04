@@ -5,12 +5,12 @@
             "component_assets/",
             "icons/controls/voice/",
             "icons/graphic/",
-            "squircles/",
-            "icons/logo/studiologo"
+            "squircles/"
         ],
         "suffixes": [],
         "keywords": [
-            "goldrobux"
+            "goldrobux",
+            "logo/studiologo"
         ],
         "strict": [
             "gradient/gradient_0_100"
