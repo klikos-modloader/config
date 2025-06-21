@@ -30,8 +30,8 @@
 
 	"player": {
 		"RobloxApp.zip": [],
-		"RobloxPlayerLauncher.exe": [],
-		"RobloxPlayerInstaller.exe": []
+		"RobloxPlayerLauncher.exe": ["RobloxPlayerLauncher.exe"],
+		"RobloxPlayerInstaller.exe": ["RobloxPlayerInstaller.exe"]
 	},
 
 	"studio": {
