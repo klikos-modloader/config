@@ -37,6 +37,9 @@
 	"studio": {
 		"RobloxStudio.zip": [],
 		"LibrariesQt5.zip": [],
+		
+		"studiocontent-textures.zip": ["content", "textures"],
+		"studiocontent-models.zip": ["content", "models"],
 
 		"content-studio_svg_textures.zip": ["content", "studio_svg_textures"],
 		"content-qt_translations.zip": ["content", "qt_translations"],
